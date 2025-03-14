@@ -1,7 +1,9 @@
 # Startup Funding Dashboard Report
 
 ## 1. Overview
-The Startup Funding Dashboard provides insights into the Indian startup ecosystem by analyzing investment trends, funding amounts, key investors, and industry verticals. The report is designed to help stakeholders understand funding distribution across years, cities, industries, and investors.
+The Startup Funding Dashboard provides insights into the Indian startup ecosystem from January 2015 to August 2017 by analyzing investment trends, funding amounts, key investors, and industry verticals. The report is designed to help stakeholders understand funding distribution across years, cities, industries, and investors.
+
+Dataset link: https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding
 
 ## 2. Key Performance Indicators (KPIs)
 The dashboard presents six KPIs to highlight crucial funding metrics:
